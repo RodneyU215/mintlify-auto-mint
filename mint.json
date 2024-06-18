@@ -14,7 +14,22 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["introduction"]
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
+      "group": "pet",
+      "pages": [
+        "api-reference/pet/update-an-existing-pet",
+        "api-reference/pet/add-a-new-pet-to-the-store",
+        "api-reference/pet/finds-pets-by-status",
+        "api-reference/pet/finds-pets-by-tags",
+        "api-reference/pet/find-pet-by-id",
+        "api-reference/pet/updates-a-pet-in-the-store-with-form-data",
+        "api-reference/pet/deletes-a-pet",
+        "api-reference/pet/uploads-an-image"
+      ]
     }
   ]
 }
